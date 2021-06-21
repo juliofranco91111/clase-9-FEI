@@ -1,5 +1,4 @@
 
-# Clase 7 - Frontend I 🚀
+# Clase 9 - Frontend I 🚀
 
-
-_Maquetación de práctica para actividad de clase 7._
+_Maquetación de práctica para actividad de clase 9._
